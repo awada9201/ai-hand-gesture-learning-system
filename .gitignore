@@ -1,0 +1,5 @@
+# Ignored paths
+src/model_training/data/hagrid_sample/
+src/model_training/data/hand_landmarker.task
+src/model_training/models/
+src/model_training/.venv/
